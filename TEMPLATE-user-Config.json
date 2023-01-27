@@ -1,0 +1,23 @@
+{
+    "projectDir": "C:\\Projects\\HomoSimulo\\app\\projects",
+    "userStation":{
+        "gpu": "NVIDIA GeForce GTX 1050 Ti",
+        "screens": 2,
+        "taskBarHeight": 40,
+        "applications":{
+                "OSRS": "C:\\Users\\blake\\jagexcache\\jagexlauncher\\bin\\JagexLauncher.exe oldschool",
+                "Excel": "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE"
+        }
+    },
+    "baseSettings":{
+        "SimuloRunning":{
+            "stopSimuloKey": "ESC",
+            "outputVideo": true,
+            "recordVideo": false
+        },
+        "SimuloRecording":{
+            "stopRecordingKey": "ESC"
+        }
+    }
+}
+
